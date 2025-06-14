@@ -84,15 +84,40 @@
 ## 📜 Certifications
 
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="정보처리기사 - 컴퓨터 구조 및 소프트웨어 개발 역량을 평가하는 국가 자격증" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" title="HSK 4급 - 중국어 능력 시험 중 중급 수준의 공인 자격" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" title="포토샵 자격증 - 그래픽 디자인 및 이미지 편집 능력 인증" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" title="일러스트 자격증 - 벡터 기반의 일러스트 제작 역량 증명" width="40" height="40"/>
-  <img src="https://img.icons8.com/fluency/48/language-skill.png" title="한국어능력검정시험 2급 - 고급 수준의 문해력 및 어휘력 인증" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/ms-excel.png" title="컴퓨터활용능력 2급 - 오피스 및 데이터 처리 실무 능력 평가" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="COS Pro (Python) 2급 - 프로그래밍 문제 해결 및 알고리즘 구현 능력 평가" width="40" height="40"/>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" /><br/>
+      <sub><b>정보처리기사</b><br/><i>필기 합격</i></sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" /><br/>
+      <sub><b>HSK</b><br/><i>4급</i></sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" /><br/>
+      <sub><b>포토샵</b><br/><i>자격증</i></sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="40" /><br/>
+      <sub><b>일러스트</b><br/><i>자격증</i></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.icons8.com/fluency/48/language-skill.png" width="40" /><br/>
+      <sub><b>한국어능력</b><br/><i>2급</i></sub>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/ms-excel.png" width="40" /><br/>
+      <sub><b>컴활</b><br/><i>2급</i></sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" /><br/>
+      <sub><b>COS Pro</b><br/><i>Python 2급</i></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
