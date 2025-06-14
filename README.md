@@ -122,10 +122,10 @@
 ---
 
 
+## 📫 Contact
+
 > 🔗 Explore more of my work: [Visit My Portfolio 🌟](http://vithamin.dothome.co.kr)  
   📝 Dive into my dev thoughts: [Check Out My Velog 🚀](https://velog.io/@joonie/posts)
-
-## 📫 Contact
 
 - 💼 LinkedIn : [your-linkedin](https://linkedin.com/in/yourprofile)
 - 📝 Notion Resume : [링크 넣기](#)
