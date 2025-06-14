@@ -84,17 +84,15 @@
 ## 📜 Certifications
 
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/정보처리기사-필기합격-005BAC?style=flat-square&logo=graduation-cap&logoColor=white"/>
-<img src="https://img.shields.io/badge/HSK-4급-005BAC?style=flat-square&logo=googletranslate&logoColor=white"/>
-<img src="https://img.shields.io/badge/포토샵-자격증-005BAC?style=flat-square&logo=adobephotoshop&logoColor=white"/>
-<img src="https://img.shields.io/badge/일러스트-자격증-005BAC?style=flat-square&logo=adobeillustrator&logoColor=white"/>
-<img src="https://img.shields.io/badge/한국어능력검정시험-2급-005BAC?style=flat-square&logo=googleclassroom&logoColor=white"/>
-<img src="https://img.shields.io/badge/컴활-2급-005BAC?style=flat-square&logo=windows&logoColor=white"/>
-<img src="https://img.shields.io/badge/COS_Pro-2급_(Python)-005BAC?style=flat-square&logo=python&logoColor=white"/>
-
-</div>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="정보처리기사" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" title="HSK" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" title="포토샵" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" title="일러스트" width="40" height="40"/>
+  <img src="https://img.icons8.com/fluency/48/language-skill.png" title="한국어능력검정" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/ms-excel.png" title="컴퓨터활용능력" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="COS Pro (Python)" width="40" height="40"/>
+</p>
 
 ---
 
