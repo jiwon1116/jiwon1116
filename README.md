@@ -89,32 +89,32 @@
 <table align="center">
   <tr>
     <td align="center">
-     <img src="https://img.icons8.com/ios-filled/50/knowledge-sharing.png" width="40" /><br/>
-      <sub><b>정보처리기사</b><br/><i>실기 합격</i></sub>
+     <img src="https://img.icons8.com/office/40/china.png" width="40" /><br/>
+      <sub><b>**정보처리기사**</b><br/><i>실기 합격</i></sub>
       <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" /><br/>
-      <sub><b>COS Pro</b><br/><i>Java 2급</i></sub>
+      <sub><b>**COS Pro**</b><br/><i>Java 2급</i></sub>
     </td>
     </td>
     <td align="center">
        <img src="https://img.icons8.com/office/40/china.png" width="40" /><br/>
-      <sub><b>HSK</b><br/><i>4급</i></sub>
+      <sub><b>**HSK**</b><br/><i>4급</i></sub>
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" /><br/>
-      <sub><b>포토샵</b><br/><i>자격증</i></sub>
+      <sub><b>**포토샵**</b><br/><i>자격증</i></sub>
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="40" /><br/>
-      <sub><b>일러스트</b><br/><i>자격증</i></sub>
+      <sub><b>**일러스트**</b><br/><i>자격증</i></sub>
     </td>
     <td align="center">
       <img src="https://img.icons8.com/fluency/48/language-skill.png" width="40" /><br/>
-      <sub><b>한국사능력</b><br/><i>2급</i></sub>
+      <sub><b>**한국사능력**</b><br/><i>2급</i></sub>
     </td>
     <td align="center">
       <img src="https://img.icons8.com/color/48/ms-excel.png" width="40" /><br/>
-      <sub><b>컴활</b><br/><i>2급</i></sub>
+      <sub><b>**컴활**</b><br/><i>2급</i></sub>
     </td>
   </tr>
 </table>
