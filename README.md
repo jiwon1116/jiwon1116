@@ -79,8 +79,6 @@
 | 🌐 **K-Culture Travel Site** | 외국인을 위한 한국 관광·뷰티 콘텐츠 제공 | HTML, CSS, jQuery, Bootstrap |
 | 🐾 **Animal Shelter Service** | 기부 및 유기동물 정보 공유 플랫폼 | Spring MVC, JSP, MySQL |
 
-🔗 Explore more of my work: [Visit My Portfolio 🌟](http://vithamin.dothome.co.kr)  
-📝 Dive into my dev thoughts: [Check Out My Velog 🚀](https://velog.io/@joonie/posts)
 
 ---
 
@@ -122,6 +120,10 @@
 </table>
 
 ---
+
+
+> 🔗 Explore more of my work: [Visit My Portfolio 🌟](http://vithamin.dothome.co.kr)  
+  📝 Dive into my dev thoughts: [Check Out My Velog 🚀](https://velog.io/@joonie/posts)
 
 ## 📫 Contact
 
