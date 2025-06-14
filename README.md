@@ -4,6 +4,9 @@
 
 ### 👋 Hi there! I'm **Jiwon Yeom**
 
+<p><strong>💡 Full Stack Developer on a journey to craft clean, user-centered web experiences.</strong></p>
+<p><em>✨ React, Spring, MySQL를 중심으로 다양한 서비스를 설계하고 구현합니다.</em></p>
+
 > 🧑‍💻 신입 Full Stack Developer 염지원입니다!
 > 프론트엔드부터 백엔드까지 폭넓게 학습하고 있으며, 다양한 프로젝트 경험을 통해 실무 감각을 키우고 있습니다.
 > 
