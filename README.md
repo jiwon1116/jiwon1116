@@ -1,7 +1,7 @@
 <div>
   
   <!--Header-->
- ![header](https://capsule-render.vercel.app/api?type=venom text = I'm%JIWON)
+ ![header](https://capsule-render.vercel.app/api?type=venom&text = I'm%JIWON)
   
 </div>
 
