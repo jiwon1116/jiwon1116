@@ -2,7 +2,6 @@
 ![jieonprofile 복사](https://github.com/user-attachments/assets/f4f9cf6b-da32-4ad0-a114-3c46cb7b0851)
 
 
-
 ### 👋 Hi there! I'm **Jiwon Yeom**
 
 > 🧑‍💻 신입 Full Stack Developer 염지원입니다!
@@ -23,36 +22,13 @@
 </p>
 
 ### 🎨 Frontend
-<table align="center">
-  <tr>
-    <td>📘 정보처리기사</td>
-    <td>필기 합격</td>
-  </tr>
-  <tr>
-    <td>🌏 HSK</td>
-    <td>4급</td>
-  </tr>
-  <tr>
-    <td>🎨 포토샵</td>
-    <td>자격증 보유</td>
-  </tr>
-  <tr>
-    <td>🖌 일러스트</td>
-    <td>자격증 보유</td>
-  </tr>
-  <tr>
-    <td>📝 한국어능력검정시험</td>
-    <td>2급</td>
-  </tr>
-  <tr>
-    <td>💻 컴퓨터활용능력</td>
-    <td>2급</td>
-  </tr>
-  <tr>
-    <td>🐍 COS Pro (Python)</td>
-    <td>2급</td>
-  </tr>
-</table>
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+</p>
 
 ### 🖥 Backend
 <p>
@@ -83,6 +59,22 @@
 
 ---
 
+## 📊 Top Skills Chart
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiwon1116&layout=donut&theme=radical&langs_count=10&hide=css,scss&custom_title=Most%20Used%20Languages" width="500"/>
+</p>
+
+---
+
+## 🧱 Contribution Calendar (Heatmap Style)
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/jiwon1116" alt="Jiwon's GitHub chart" />
+</p>
+
+---
+
 ### 🐍 Contribution Snake
 
 <p align="center">
@@ -106,16 +98,36 @@
 
 ## 📜 Certifications
 
-<p align="center">
-  <img src="https://img.shields.io/badge/정보처리기사-필기합격-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/HSK-4급-yellow?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/포토샵-자격증-ff69b4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/일러스트-자격증-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/한국어능력검정-2급-lightgrey?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/컴활-2급-brightgreen?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/COS_Pro-2급_(_Python_)-informational?style=for-the-badge"/>
-</p>
-
+<table align="center">
+  <tr>
+    <td>📘 정보처리기사</td>
+    <td>필기 합격</td>
+  </tr>
+  <tr>
+    <td>🌏 HSK</td>
+    <td>4급</td>
+  </tr>
+  <tr>
+    <td>🎨 포토샵</td>
+    <td>자격증 보유</td>
+  </tr>
+  <tr>
+    <td>🖌 일러스트</td>
+    <td>자격증 보유</td>
+  </tr>
+  <tr>
+    <td>📝 한국어능력검정시험</td>
+    <td>2급</td>
+  </tr>
+  <tr>
+    <td>💻 컴퓨터활용능력</td>
+    <td>2급</td>
+  </tr>
+  <tr>
+    <td>🐍 COS Pro (Python)</td>
+    <td>2급</td>
+  </tr>
+</table>
 
 ---
 
