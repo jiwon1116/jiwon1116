@@ -63,8 +63,9 @@
 ## 📊 Top Skills Chart
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiwon1116&layout=donut&theme=radical&langs_count=10&hide=css,scss&custom_title=Most%20Used%20Languages" width="500"/>
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,react,spring,html,css,jquery,mysql,docker,aws" />
 </p>
+
 
 ---
 
