@@ -1,7 +1,7 @@
 <!-- 헤더 (멋진 상단 배너) -->
 ![jieonprofile!!!](https://github.com/user-attachments/assets/614ca2aa-66bc-4f8d-8946-d0594742542c)
 
-<h3 align="center">👋 Hi there! I'm **Jiwon Yeom**</h3>
+<h3 align="center">👋 Hi there! I'm <b>Jiwon Yeom<b></h3>
 
 > 🧑‍💻 신입 Full Stack Developer 염지원입니다!
 > 프론트엔드부터 백엔드까지 폭넓게 학습하고 있으며, 다양한 프로젝트 경험을 통해 실무 감각을 키우고 있습니다.
