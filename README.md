@@ -1,6 +1,6 @@
 <!-- 헤더 (멋진 상단 배너) -->
-![jieonprofile 복사](https://github.com/user-attachments/assets/f4f9cf6b-da32-4ad0-a114-3c46cb7b0851)
 
+![jieonprofile](https://github.com/user-attachments/assets/1c2f3191-4fa8-4639-850c-4895acb8656a)
 
 
 ### 👋 Hi there! I'm **Jiwon Yeom**
