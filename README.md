@@ -60,6 +60,22 @@
 
 ---
 
+## 📊 Top Skills Chart
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiwon1116&layout=donut&theme=radical" width="500"/>
+</p>
+
+---
+
+## 🧱 3D Contribution Calendar
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/jiwon1116" alt="Jiwon's GitHub chart" />
+</p>
+
+---
+
 ### 🐍 Contribution Snake
 
 <p align="center">
