@@ -54,10 +54,6 @@
 
 ---
 
-## 🧊 GitHub 3D Contributions
+### 🧊 My 3D Contribution Graph
 
-> 3D 기여 그래프는 아래 GitHub Actions 프로젝트를 사용하면 자동 생성됩니다.  
-> 👉 [github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib)
-
-```markdown
-![3D Contributions](https://raw.githubusercontent.com/사용자아이디/github-profile-3d-contrib/main/profile-3d-contrib/output/github-contribution-grid-snake.svg)
+![3D graph](./profile-3d-contrib/output/github-contribution-grid-snake.svg)
