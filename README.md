@@ -67,7 +67,7 @@
 | 🐾 **Animal Shelter Service** | 기부 및 유기동물 정보 공유 플랫폼 | Spring MVC, JSP, MySQL |
 
 🔗 Explore more of my work: [Visit My Portfolio 🌟](http://vithamin.dothome.co.kr)  
-📝 Dive into my dev thoughts: [Check Out My Velog 🚀](https://velog.io/@joonie/posts)
+📝 Dive into my dev thoughts: [Check Out My Velog 🚀](https://velog.io/@joonie/series)
 
 ---
 
