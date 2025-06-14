@@ -1,5 +1,5 @@
 <!-- 헤더 (멋진 상단 배너) -->
-![header](https://capsule-render.waving.app/api?type=slice)
+![header](https://capsule-render.vercel.app/api?type=waving)
 
 ![jieonprofile!!!](https://github.com/user-attachments/assets/614ca2aa-66bc-4f8d-8946-d0594742542c)
 
