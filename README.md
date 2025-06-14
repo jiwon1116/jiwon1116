@@ -75,5 +75,4 @@
 
 - 💼 LinkedIn : [your-linkedin](https://linkedin.com/in/yourprofile)
 - 📝 Notion Resume : [링크 넣기](#)
-- ✉️ Email : your_email@example.com
-
+- ✉️ Email : anna3235@naver.com
