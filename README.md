@@ -89,7 +89,7 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" /><br/>
+     <img src="https://img.icons8.com/ios-filled/50/knowledge-sharing.png" width="40" /><br/>
       <sub><b>정보처리기사</b><br/><i>실기 합격</i></sub>
       <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" /><br/>
