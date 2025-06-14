@@ -50,7 +50,7 @@
 | 🐾 **Animal Shelter Service** | 기부 및 유기동물 정보 공유 플랫폼                         | Spring MVC, JSP, MySQL             |
 
 👉 [포트폴리오 보러가기](#vithamin.dothome.co.kr)  
-👉 [velog 보기](#https://velog.io/@joonie/posts)
+👉 [velog 보기](#velog.io/@joonie/posts)
 
 ---
 
