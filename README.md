@@ -60,23 +60,6 @@
 
 ---
 
-## 📊 Top Skills Chart
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,react,spring,html,css,jquery,mysql,docker,aws" />
-</p>
-
-
----
-
-## 🧱 Contribution Calendar (Heatmap Style)
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/jiwon1116" alt="Jiwon's GitHub chart" />
-</p>
-
----
-
 ### 🐍 Contribution Snake
 
 <p align="center">
@@ -100,13 +83,16 @@
 
 ## 📜 Certifications
 
-- 정보처리기사 (필기 합격)
-- HSK 4급
-- 포토샵 자격증
-- 일러스트 자격증
-- 한국어능력검정시험 2급
-- 컴퓨터활용능력 2급
-- COS Pro 2급 (Python)
+<p align="center">
+  <img src="https://img.shields.io/badge/정보처리기사-필기합격-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/HSK-4급-yellow?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/포토샵-자격증-ff69b4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/일러스트-자격증-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/한국어능력검정-2급-lightgrey?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/컴활-2급-brightgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/COS_Pro-2급_(_Python_)-informational?style=for-the-badge"/>
+</p>
+
 
 ---
 
