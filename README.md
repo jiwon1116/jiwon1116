@@ -1,13 +1,7 @@
 <!-- 헤더 (멋진 상단 배너) -->
 ![jieonprofile 복사](https://github.com/user-attachments/assets/f4f9cf6b-da32-4ad0-a114-3c46cb7b0851)
 
-### 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://github.com/jiwon1116/jiwon1116/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
 
 ### 👋 Hi there! I'm **Jiwon Yeom**
 
@@ -16,10 +10,17 @@
 > 
 > `사용자 중심의 개발`과 `문제 해결`을 즐기는 개발자를 지향하며, 지속적으로 성장하고 있는 개발자입니다. 💻✨
 
+
 > 🎯 "작은 불편을 해결하는 데서 혁신은 시작된다고 믿습니다."
 
 ---
+### 🐍 Contribution Snake
 
+<p align="center">
+  <img src="https://github.com/jiwon1116/jiwon1116/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
 
 
 ## 🛠️ Tech Stack
