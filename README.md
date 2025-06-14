@@ -93,7 +93,7 @@
       <sub><b>정보처리기사</b><br/><i>실기 합격</i></sub>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" /><br/>
+       <img src="https://img.icons8.com/office/40/china.png" width="40" /><br/>
       <sub><b>HSK</b><br/><i>4급</i></sub>
     </td>
     <td align="center">
@@ -106,7 +106,7 @@
     </td>
     <td align="center">
       <img src="https://img.icons8.com/fluency/48/language-skill.png" width="40" /><br/>
-      <sub><b>한국어능력</b><br/><i>2급</i></sub>
+      <sub><b>한국사능력</b><br/><i>2급</i></sub>
     </td>
     <td align="center">
       <img src="https://img.icons8.com/color/48/ms-excel.png" width="40" /><br/>
