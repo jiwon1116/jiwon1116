@@ -101,13 +101,13 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/정보처리기사-필기합격-blueviolet?style=flat-square&logo=graduation-cap&logoColor=white"/>
-<img src="https://img.shields.io/badge/HSK-4급-yellowgreen?style=flat-square&logo=googletranslate&logoColor=white"/>
-<img src="https://img.shields.io/badge/포토샵-자격증-ff69b4?style=flat-square&logo=adobephotoshop&logoColor=white"/>
-<img src="https://img.shields.io/badge/일러스트-자격증-orange?style=flat-square&logo=adobeillustrator&logoColor=white"/>
-<img src="https://img.shields.io/badge/한국어능력검정시험-2급-lightgrey?style=flat-square&logo=googleclassroom"/>
-<img src="https://img.shields.io/badge/컴활-2급-success?style=flat-square&logo=windows&logoColor=white"/>
-<img src="https://img.shields.io/badge/COS_Pro-2급_(Python)-informational?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/정보처리기사-필기합격-005BAC?style=flat-square&logo=graduation-cap&logoColor=white"/>
+<img src="https://img.shields.io/badge/HSK-4급-005BAC?style=flat-square&logo=googletranslate&logoColor=white"/>
+<img src="https://img.shields.io/badge/포토샵-자격증-005BAC?style=flat-square&logo=adobephotoshop&logoColor=white"/>
+<img src="https://img.shields.io/badge/일러스트-자격증-005BAC?style=flat-square&logo=adobeillustrator&logoColor=white"/>
+<img src="https://img.shields.io/badge/한국어능력검정시험-2급-005BAC?style=flat-square&logo=googleclassroom&logoColor=white"/>
+<img src="https://img.shields.io/badge/컴활-2급-005BAC?style=flat-square&logo=windows&logoColor=white"/>
+<img src="https://img.shields.io/badge/COS_Pro-2급_(Python)-005BAC?style=flat-square&logo=python&logoColor=white"/>
 
 </div>
 
