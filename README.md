@@ -10,6 +10,8 @@
 > 
 > `사용자 중심의 개발`과 `문제 해결`을 즐기는 개발자를 지향하며, 지속적으로 성장하고 있는 개발자입니다. 💻✨
 
+> 🎯 "작은 불편을 해결하는 데서 혁신은 시작된다고 믿습니다."
+
 ---
 
 ## 🛠️ Tech Stack
@@ -58,6 +60,14 @@
 
 ---
 
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/jiwon1116/jiwon1116/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
 ## 🧩 Projects
 
 | 프로젝트명 | 설명 | 기술 스택 |
@@ -67,7 +77,19 @@
 | 🐾 **Animal Shelter Service** | 기부 및 유기동물 정보 공유 플랫폼 | Spring MVC, JSP, MySQL |
 
 🔗 Explore more of my work: [Visit My Portfolio 🌟](http://vithamin.dothome.co.kr)  
-📝 Dive into my dev thoughts: [Check Out My Velog 🚀](https://velog.io/@joonie/series)
+📝 Dive into my dev thoughts: [Check Out My Velog 🚀](https://velog.io/@joonie/posts)
+
+---
+
+## 📜 Certifications
+
+- 정보처리기사 (필기 합격)
+- HSK 4급
+- 포토샵 자격증
+- 일러스트 자격증
+- 한국어능력검정시험 2급
+- 컴퓨터활용능력 2급
+- COS Pro 2급 (Python)
 
 ---
 
@@ -75,4 +97,4 @@
 
 - 💼 LinkedIn : [your-linkedin](https://linkedin.com/in/yourprofile)
 - 📝 Notion Resume : [링크 넣기](#)
-- ✉️ Email : anna3235@naver.com
+- ✉️ Email : your_email@example.com
