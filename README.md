@@ -3,15 +3,19 @@
 
 <h3 align="center">👋 Hi there! I'm **Jiwon Yeom**</h3>
 
-<p><strong>💡 감각 있고 따뜻한 개발자, 염지원입니다!</strong></p>
-<p><em>기술에 감성을 더하고, 사용자에게 진심을 담는 웹을 만듭니다.<br/>꾸준함과 호기심으로 성장 중인 Full Stack Developer입니다.</em></p>
-
 > 🧑‍💻 신입 Full Stack Developer 염지원입니다!
 > 프론트엔드부터 백엔드까지 폭넓게 학습하고 있으며, 다양한 프로젝트 경험을 통해 실무 감각을 키우고 있습니다.
 > 
 > `사용자 중심의 개발`과 `문제 해결`을 즐기는 개발자를 지향하며, 지속적으로 성장하고 있는 개발자입니다. 💻✨
 
-> 🎯 "I don't just write code — I engineer experiences that move people and solve real problems."
+---
+
+
+<h3 align="center">🐍 Contribution Snake</h3>
+
+<p align="center">
+  <img src="https://github.com/jiwon1116/jiwon1116/blob/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
@@ -61,29 +65,7 @@
 
 ---
 
-<h2 align="center">📊 Top Skills Chart</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiwon1116&layout=donut&theme=radical&langs_count=10&hide=css,scss&custom_title=Most%20Used%20Languages" width="500"/>
-</p>
-
----
-
-<h2 align="center">🧱 Contribution Calendar (Heatmap Style)</h2>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/jiwon1116" alt="Jiwon's GitHub chart" />
-</p>
-
----
-
-<h3 align="center">🐍 Contribution Snake</h3>
-
-<p align="center">
-  <img src="https://github.com/jiwon1116/jiwon1116/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
 
 <h2 align="center">🧩 Projects</h2>
 
@@ -93,8 +75,7 @@
 | 🌐 **K-Culture Travel Site** | 외국인을 위한 한국 관광·뷰티 콘텐츠 제공 | HTML, CSS, jQuery, Bootstrap |
 | 🐾 **Animal Shelter Service** | 기부 및 유기동물 정보 공유 플랫폼 | Spring MVC, JSP, MySQL |
 
-🔗 Explore more of my work: [Visit My Portfolio 🌟](http://vithamin.dothome.co.kr)  
-📝 Dive into my dev thoughts: [Check Out My Velog 🚀](https://velog.io/@joonie/posts)
+
 
 ---
 
@@ -104,7 +85,7 @@
   <tr>
     <td align="center">
       <img src="https://img.icons8.com/ios-filled/50/knowledge-sharing.png" width="40" /><br/>
-      <sub><b>정보처리기사</b><br/><i>필기 합격</i></sub>
+      <sub><b>정보처리기사</b><br/><i>실기 합격</i></sub>
     </td>
     <td align="center">
       <img src="https://img.icons8.com/office/40/china.png" width="40" /><br/>
@@ -112,15 +93,15 @@
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" /><br/>
-      <sub><b>포토샵</b><br/><i>자격증</i></sub>
+      <sub><b>포토샵</b><br/><i>1급</i></sub>
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="40" /><br/>
-      <sub><b>일러스트</b><br/><i>자격증</i></sub>
+      <sub><b>일러스트</b><br/><i>1급</i></sub>
     </td>
     <td align="center">
       <img src="https://img.icons8.com/fluency/48/language-skill.png" width="40" /><br/>
-      <sub><b>한국어능력</b><br/><i>2급</i></sub>
+      <sub><b>한국사능력</b><br/><i>2급</i></sub>
     </td>
     <td align="center">
       <img src="https://img.icons8.com/color/48/ms-excel.png" width="40" /><br/>
@@ -136,6 +117,9 @@
 ---
 
 <h2 align="center">📫 Contact</h2>
+
+>🔗 Explore more of my work: [Visit My Portfolio 🌟](http://vithamin.dothome.co.kr)  
+📝 Dive into my dev thoughts: [Check Out My Velog 🚀](https://velog.io/@joonie/posts)
 
 - 💼 LinkedIn : [your-linkedin](https://linkedin.com/in/yourprofile)
 - 📝 Notion Resume : [링크 넣기](#)
