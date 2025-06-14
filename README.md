@@ -1,74 +1,63 @@
-<div>
-  
-  <!--Header-->
- ![header](https://capsule-render.vercel.app/api?type=Venom&color=gradient&height=300&section=header&color=black&text=Good%20to%20see%20you%20%F0%9F%A4%97)
-</div>
+<!-- 헤더 (멋진 상단 배너) -->
+![header](https://capsule-render.vercel.app/api?type=Venom&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20🧐&fontSize=40&fontColor=ffffff)
 
-<div>
-  <!--Body-->
-  
-  ## 👀 About Me
-  #### :raising_hand: I am a Cloud Engineer from South Korea.<br/>
-  #### :fire: I aim to become a Cloud AI Engineer.<br/>
-  #### :mortar_board: Bachelor of Applied Artificial Intelligence, Sungkyunkwan University(SKKU)
-  <br/>
-  <br/>
-  
-  ## 🧱 Tech Stack
-  ### Language
-  <!--Python-->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-  <!--JavaScript-->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-  <!--HTML5-->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-  <!--CSS-->
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-  <br/>
-  
-  ### Library
-  <!--PyTorch-->
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
-  <!--Selenium-->
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/>
-  <br/>
-  
-  ### Framework
-  <!--Flask-->
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
-  <!--Django-->
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
-  <!--React-->
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white&Color=white"/>
-  <br/>
-  
-  ### ETC
-  <!--Amazon AWS-->
-  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
-  <!--Slack-->
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
-  <!--MySQL-->
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-  <br/>
-  <br/>
-  
-  ## 🤔 Github Stats
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiyu-Kim)](https://github.com/anuraghazra/github-readme-stats)
-  <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiyu-Kim)](https://github.com/anuraghazra/github-readme-stats)
-  
-</div>
-<!--
-**jiwon1116/jiwon1116** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- 소개 -->
+## 👋 About Me
+안녕하세요!  
+꾸준히 성장하는 개발자 **홍길동**입니다.  
+현재는 백엔드와 프론트엔드를 모두 경험하고 있으며, **클라우드 기반 AI 엔지니어**를 목표로 공부 중입니다.
 
-Here are some ideas to get you started:
+- 🎓 성균관대학교 응용인공지능 전공
+- 🧠 Java, Spring, React를 중심으로 한 웹 개발 학습
+- ☁️ 클라우드, DevOps에도 관심 많음!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages & Fundamentals
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+### 🎨 Frontend
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+
+### 🧩 Backend
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+### 🛠 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+
+### ☁️ DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+
+---
+
+## 📂 Projects
+
+| 프로젝트명                    | 설명                                                      | 기술 스택                          |
+| ----------------------------- | --------------------------------------------------------- | ---------------------------------- |
+| 🛡️ **Anti-Scam Platform**     | 보험 및 물건 사기 방지 시스템 개발, 변호사 상담 연결 기능 | Java, Spring, MySQL, JS, Bootstrap |
+| 🌐 **K-Culture Travel Site**  | 외국인을 위한 한국 관광·뷰티 콘텐츠 제공                  | HTML, CSS, jQuery, Bootstrap       |
+| 🐾 **Animal Shelter Service** | 기부 및 유기동물 정보 공유 플랫폼                         | Spring MVC, JSP, MySQL             |
+
+🔗 [포트폴리오 보기](http://vithamin.dothome.co.kr)  
+🔗 [블로그 방문하기](https://github.com/hm1211/vithamin.github.io)
+
+---
+
+## 🧊 GitHub 3D Contributions
+
+> 3D 기여 그래프는 아래 GitHub Actions 프로젝트를 사용하면 자동 생성됩니다.  
+> 👉 [github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib)
+
+```markdown
+![3D Contributions](https://raw.githubusercontent.com/사용자아이디/github-profile-3d-contrib/main/profile-3d-contrib/output/github-contribution-grid-snake.svg)
