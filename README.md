@@ -23,13 +23,36 @@
 </p>
 
 ### 🎨 Frontend
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-</p>
+<table align="center">
+  <tr>
+    <td>📘 정보처리기사</td>
+    <td>필기 합격</td>
+  </tr>
+  <tr>
+    <td>🌏 HSK</td>
+    <td>4급</td>
+  </tr>
+  <tr>
+    <td>🎨 포토샵</td>
+    <td>자격증 보유</td>
+  </tr>
+  <tr>
+    <td>🖌 일러스트</td>
+    <td>자격증 보유</td>
+  </tr>
+  <tr>
+    <td>📝 한국어능력검정시험</td>
+    <td>2급</td>
+  </tr>
+  <tr>
+    <td>💻 컴퓨터활용능력</td>
+    <td>2급</td>
+  </tr>
+  <tr>
+    <td>🐍 COS Pro (Python)</td>
+    <td>2급</td>
+  </tr>
+</table>
 
 ### 🖥 Backend
 <p>
