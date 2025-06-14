@@ -1,4 +1,6 @@
 <!-- 헤더 (멋진 상단 배너) -->
+![header](https://capsule-render.waving.app/api?type=slice)
+
 ![jieonprofile!!!](https://github.com/user-attachments/assets/614ca2aa-66bc-4f8d-8946-d0594742542c)
 
 <h3 align="center">👋 Hi there! I'm <b>Jiwon Yeom<b></h3>
