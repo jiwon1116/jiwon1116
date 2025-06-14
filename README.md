@@ -4,15 +4,21 @@
 
 ### 👋 Hi there! I'm **Jiwon Yeom**
 
-<p><strong>💡 Full Stack Developer on a journey to craft clean, user-centered web experiences.</strong></p>
-<p><em>✨ React, Spring, MySQL를 중심으로 다양한 서비스를 설계하고 구현합니다.</em></p>
-
 > 🧑‍💻 신입 Full Stack Developer 염지원입니다!
 > 프론트엔드부터 백엔드까지 폭넓게 학습하고 있으며, 다양한 프로젝트 경험을 통해 실무 감각을 키우고 있습니다.
 > 
 > `사용자 중심의 개발`과 `문제 해결`을 즐기는 개발자를 지향하며, 지속적으로 성장하고 있는 개발자입니다. 💻✨
 
 > 🎯 "작은 불편을 해결하는 데서 혁신은 시작된다고 믿습니다."
+
+---
+
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/jiwon1116/jiwon1116/blob/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
@@ -63,13 +69,6 @@
 ---
 
 
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/jiwon1116/jiwon1116/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
 
 ## 🧩 Projects
 
