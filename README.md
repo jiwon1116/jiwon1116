@@ -63,12 +63,12 @@
 ## 📊 Top Skills Chart
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiwon1116&layout=donut&theme=radical" width="500"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiwon1116&layout=donut&theme=radical&langs_count=10&hide=css,scss&custom_title=Most%20Used%20Languages" width="500"/>
 </p>
 
 ---
 
-## 🧱 3D Contribution Calendar
+## 🧱 Contribution Calendar (Heatmap Style)
 
 <p align="center">
   <img src="https://ghchart.rshah.org/jiwon1116" alt="Jiwon's GitHub chart" />
@@ -114,3 +114,4 @@
 - 💼 LinkedIn : [your-linkedin](https://linkedin.com/in/yourprofile)
 - 📝 Notion Resume : [링크 넣기](#)
 - ✉️ Email : your_email@example.com
+
