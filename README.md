@@ -91,6 +91,10 @@
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" /><br/>
       <sub><b>정보처리기사</b><br/><i>실기 합격</i></sub>
+      <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" /><br/>
+      <sub><b>COS Pro</b><br/><i>Java 2급</i></sub>
+    </td>
     </td>
     <td align="center">
        <img src="https://img.icons8.com/office/40/china.png" width="40" /><br/>
@@ -111,10 +115,6 @@
     <td align="center">
       <img src="https://img.icons8.com/color/48/ms-excel.png" width="40" /><br/>
       <sub><b>컴활</b><br/><i>2급</i></sub>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" /><br/>
-      <sub><b>COS Pro</b><br/><i>Python 2급</i></sub>
     </td>
   </tr>
 </table>
