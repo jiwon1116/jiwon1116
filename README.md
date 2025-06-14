@@ -1,6 +1,13 @@
 <!-- 헤더 (멋진 상단 배너) -->
 ![jieonprofile 복사](https://github.com/user-attachments/assets/f4f9cf6b-da32-4ad0-a114-3c46cb7b0851)
 
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/jiwon1116/jiwon1116/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
 
 ### 👋 Hi there! I'm **Jiwon Yeom**
 
@@ -14,13 +21,6 @@
 ---
 
 
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/jiwon1116/jiwon1116/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
 
 ## 🛠️ Tech Stack
 
@@ -102,11 +102,11 @@
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" /><br/>
-      <sub><b>포토샵</b><br/><i>자격증</i></sub>
+      <sub><b>포토샵</b><br/><i>1급</i></sub>
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="40" /><br/>
-      <sub><b>일러스트</b><br/><i>자격증</i></sub>
+      <sub><b>일러스트</b><br/><i>1급</i></sub>
     </td>
   <td align="center">
       <img src="https://img.icons8.com/color/48/ms-excel.png" width="40" /><br/>
