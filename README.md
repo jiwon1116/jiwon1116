@@ -88,7 +88,7 @@
   <tr>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" /><br/>
-      <sub><b>정보처리기사</b><br/><i>필기 합격</i></sub>
+      <sub><b>정보처리기사</b><br/><i>실기 합격</i></sub>
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" /><br/>
@@ -102,8 +102,6 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="40" /><br/>
       <sub><b>일러스트</b><br/><i>자격증</i></sub>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img src="https://img.icons8.com/fluency/48/language-skill.png" width="40" /><br/>
       <sub><b>한국어능력</b><br/><i>2급</i></sub>
