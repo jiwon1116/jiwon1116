@@ -6,14 +6,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=700&size=25&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Hi+!+I'm+Jiwon+Yeom;Let's+build+something+amazing+together!" alt="Typing SVG" />
 </div>
 
-> 🧑‍💻 신입 Full Stack Developer 염지원입니다!
+>  👩‍💼신입 Full Stack Developer 염지원입니다!
   프론트엔드부터 백엔드까지 폭넓게 학습하고 있으며, 다양한 프로젝트 경험을 통해 실무 감각을 키우고 있습니다.
 
 >  💻 `사용자 중심의 개발`과 `문제 해결`을 즐기는 개발자를 지향하며, 지속적으로 성장하고 있는 개발자입니다. 
 
-- ✨ "단순한 코드를 넘어, 사람을 위한 솔루션을 만듭니다."
-- ✨ "코드를 짜는 데서 멈추지 않고, 경험을 설계하는 개발자가 되겠습니다."
-- ✨ "보이지 않는 곳까지 고민하는 것이, 진짜 개발이라고 믿습니다."
+- 🔑 "단순한 코드를 넘어, 사람을 위한 솔루션을 만듭니다."
+- 🎭 "코드를 짜는 데서 멈추지 않고, 경험을 설계하는 개발자가 되겠습니다."
+- 📲 "보이지 않는 곳까지 고민하는 것이, 진짜 개발이라고 믿습니다."
 ---
 
 <h2 align="center">💼 Career</h2>
