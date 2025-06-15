@@ -100,14 +100,21 @@
 
 ### 🛍️ 비건 브랜드 큐레이션 웹앱
 
-| 프로젝트명 | 설명 | 기술 스택 |
-|------------|------|------------|
-| 🛡️ **Anti-Scam Platform** | 보험 및 물건 사기 방지 시스템 개발, 변호사 상담 연결 기능 | Java, Spring, MySQL, JS, Bootstrap |
-| 🌐 **K-Culture Travel Site** | 외국인을 위한 한국 관광·뷰티 콘텐츠 제공 | HTML, CSS, jQuery, Bootstrap |
-| 🐾 **Animal Shelter Service** | 기부 및 유기동물 정보 공유 플랫폼 | Spring MVC, JSP, MySQL |
-| 🎬 **MBTI 콘텐츠 추천 플랫폼** | 심리 테스트 기반으로 영화/드라마 유형화 및 추천 | React, JavaScript, CSS |
-| ✈️ **예산 기반 여행 설계 웹앱** | 사용자의 예산만으로 항공, 숙소, 식당 등 일정 자동 구성 | React, Python, Java, MySQL |
+<h2 align="center">🧩 Projects</h2>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jiwon1116&repo=anti-scam-platform" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jiwon1116&repo=k-culture-travel-site" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jiwon1116&repo=animal-shelter-service" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jiwon1116&repo=mbti-content-recommender" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jiwon1116&repo=budget-travel-planner" />
+</p>
 ---
 
 <h2 align="center">📜 Certifications</h2>
