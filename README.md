@@ -72,22 +72,6 @@
 
 ---
 
-<h2 align="center">📊 Top Skills Chart</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiwon1116&layout=donut&theme=radical&langs_count=10&hide=css,scss&custom_title=Most%20Used%20Languages" width="500"/>
-</p>
-
----
-
-<h2 align="center">🧱 Contribution Calendar (Heatmap Style)</h2>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/jiwon1116" alt="Jiwon's GitHub chart" />
-</p>
-
----
-
 <h3 align="center">🐍 Contribution Snake</h3>
 
 <p align="center">
