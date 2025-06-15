@@ -98,36 +98,36 @@
 
 
 
-<h2 align="center">🧩 Projects</h2>
 
+<h2 align="center">🧩 Projects</h2>
 
 <table align="center">
   <tr>
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=jiwon1116&repo=anti-scam-platform" />
       <br/>
-      <strong>Anti-Scam Platform</strong><br/>
-      플젝1<br/>
+      <strong>🧠 Anti-Scam Platform</strong><br/>
+      🧷 CSS<br/>
     </td>
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=jiwon1116&repo=k-culture-travel-site" />
       <br/>
-      <strong>K-Culture Travel Site</strong><br/>
-       플젝2<br/>
+      <strong>🚀 K-Culture Travel Site</strong><br/>
+      ☕ Java<br/>
     </td>
   </tr>
- <tr>
+  <tr>
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=jiwon1116&repo=anti-scam-platform" />
       <br/>
-      <strong>Anti-Scam Platform</strong><br/>
-      플젝1<br/>
+      <strong>💡 Anti-Scam Platform</strong><br/>
+      ⚛️ React<br/>
     </td>
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=jiwon1116&repo=k-culture-travel-site" />
       <br/>
-      <strong>K-Culture Travel Site</strong><br/>
-       플젝2<br/>
+      <strong>🔧 K-Culture Travel Site</strong><br/>
+      🐱 GitHub<br/>
     </td>
   </tr>
 </table>
