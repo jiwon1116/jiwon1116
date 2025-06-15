@@ -2,17 +2,17 @@
 
 ![jieonprofile!!!](https://github.com/user-attachments/assets/614ca2aa-66bc-4f8d-8946-d0594742542c)
 
-<h3 align="center">👋 Hi there! I'm **Jiwon Yeom**</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2EC4B6&center=true&vCenter=true&width=435&lines=Hi+I'm+Jiwon+Yeom!;Full+Stack+Developer+with+Curiosity+%26+Warmth" alt="Typing SVG" />
+</div>
 
-<p><strong>💡 감각 있고 따뜻한 개발자, 염지원입니다!</strong></p>
-<p><em>기술에 감성을 더하고, 사용자에게 진심을 담는 웹을 만듭니다.<br/>꾸준함과 호기심으로 성장 중인 Full Stack Developer입니다.</em></p>
+<p align="center"><strong>👩‍💻 풀스택 개발자 염지원입니다!</strong><br/>
+<em>감각과 디테일을 바탕으로, 사용자에게 닿는 코드를 만듭니다.<br/>
+디자인과 로직을 연결하고, 작은 불편에서 출발해 실용적인 솔루션을 구현합니다.</em></p>
 
-> 🧑‍💻 신입 Full Stack Developer 염지원입니다!
-> 프론트엔드부터 백엔드까지 폭넓게 학습하고 있으며, 다양한 프로젝트 경험을 통해 실무 감각을 키우고 있습니다.
-> 
-> `사용자 중심의 개발`과 `문제 해결`을 즐기는 개발자를 지향하며, 지속적으로 성장하고 있는 개발자입니다. 💻✨
 
-> 🎯 "I don't just write code — I engineer experiences that move people and solve real problems."
+
+> 🎯 "Building meaningful products by bridging logic, empathy, and creativity."
 
 ---
 
