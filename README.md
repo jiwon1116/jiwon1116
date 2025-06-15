@@ -54,34 +54,6 @@
 
 ---
 
-<h2 align="center">📈 GitHub Stats & Activity</h2>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jiwon1116&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jiwon1116&theme=default" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jiwon1116&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jiwon1116&theme=default" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jiwon1116&theme=default&utcOffset=9" />
-</p>
-
----
-
-<h3 align="center">🐍 Contribution Snake</h3>
-
-<p align="center">
-  <img src="https://github.com/jiwon1116/jiwon1116/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-
-
 
 <h2 align="center">🧩 Projects</h2>
 
@@ -162,6 +134,36 @@
 </table>
 
 ---
+
+<h2 align="center">📈 GitHub Stats & Activity</h2>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jiwon1116&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jiwon1116&theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jiwon1116&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jiwon1116&theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jiwon1116&theme=default&utcOffset=9" />
+</p>
+
+---
+
+<h3 align="center">🐍 Contribution Snake</h3>
+
+<p align="center">
+  <img src="https://github.com/jiwon1116/jiwon1116/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+
+
+
 
 <h2 align="center">📫 Contact</h2>
 
