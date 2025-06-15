@@ -116,18 +116,18 @@
        플젝2<br/>
     </td>
   </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=jiwon1116&repo=budget-travel-planner" />
+ <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=jiwon1116&repo=anti-scam-platform" />
       <br/>
-      <strong>Budget Travel Planner</strong><br/>
-      플젝3<br/>
+      <strong>Anti-Scam Platform</strong><br/>
+      플젝1<br/>
     </td>
-    <td align="center" colspan="2">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=jiwon1116&repo=budget-travel-planner" />
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=jiwon1116&repo=k-culture-travel-site" />
       <br/>
-      <strong>Budget Travel Planner</strong><br/>
-       플젝4<br/>
+      <strong>K-Culture Travel Site</strong><br/>
+       플젝2<br/>
     </td>
   </tr>
 </table>
