@@ -3,7 +3,7 @@
 ![jieonprofile!!!](https://github.com/user-attachments/assets/614ca2aa-66bc-4f8d-8946-d0594742542c)
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=700&size=25&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Hi+!+I'm+Jiwon+Yeom!;Let's+build+something+amazing+together" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=700&size=25&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Hi+!+I'm+Jiwon+Yeom;Let's+build+something+amazing+together!" alt="Typing SVG" />
 </div>
 
 > 🧑‍💻 신입 Full Stack Developer 염지원입니다!
