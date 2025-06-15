@@ -8,10 +8,12 @@
 
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:111111&height=100&section=header&text=Welcome!&fontColor=ffffff&fontSize=40&animation=fadeIn" />
-  <h3>👩‍💻 염지원 | Full Stack Developer</h3>
-  <p><em>사용자 중심의 사고, 감각 있는 UI, 그리고 안정적인 백엔드까지,<br/>작은 불편을 해결하는 데서 진짜 혁신이 시작된다고 믿습니다.</em></p>
+  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=700&size=25&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Hi+I'm+Jiwon+Yeom!;I'm+a+Full+Stack+Developer." alt="Typing SVG" />
+  <p><strong>👩‍💻 풀스택 개발자 염지원입니다!</strong><br/>
+  <em>감각과 디테일을 바탕으로 사용자에게 닿는 경험을 설계하고,<br/>기술과 디자인의 경계를 넘나들며 성장하고 있습니다.</em></p>
+  <blockquote>💬 "Creating seamless digital experiences through clarity, code, and creativity."</blockquote>
 </div>
+
 ---
 
 <h2 align="center">🛠️ Tech Stack</h2>
