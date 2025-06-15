@@ -100,14 +100,33 @@
 
 <h2 align="center">🧩 Projects</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jiwon1116&repo=anti-scam-platform" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jiwon1116&repo=k-culture-travel-site" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jiwon1116&repo=budget-travel-planner" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=jiwon1116&repo=anti-scam-platform" />
+      <br/>
+      <strong>Anti-Scam Platform</strong><br/>
+      보험 및 물건 사기 방지 시스템, 변호사 상담 연결 기능 구현
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=jiwon1116&repo=k-culture-travel-site" />
+      <br/>
+      <strong>K-Culture Travel Site</strong><br/>
+      외국인을 위한 한국 관광·뷰티 콘텐츠 큐레이션 웹사이트
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=jiwon1116&repo=budget-travel-planner" />
+      <br/>
+      <strong>Budget Travel Planner</strong><br/>
+      예산 입력 기반 맞춤형 항공권·숙소·식당 추천 웹 플랫폼
+    </td>
+  </tr>
+</table>
+
+---
 
 
 <h2 align="center">📜 Certifications</h2>
