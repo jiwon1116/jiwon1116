@@ -7,11 +7,9 @@
 </div>
 
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=700&size=25&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Hi+I'm+Jiwon+Yeom!;I'm+a+Full+Stack+Developer." alt="Typing SVG" />
-  <p><strong>👩‍💻 풀스택 개발자 염지원입니다!</strong><br/>
-  <em>감각과 디테일을 바탕으로 사용자에게 닿는 경험을 설계하고,<br/>기술과 디자인의 경계를 넘나들며 성장하고 있습니다.</em></p>
-  <blockquote>💬 "Creating seamless digital experiences through clarity, code, and creativity."</blockquote>
+  <p><strong>🧑‍🚀 Hello! I'm Jiwon Yeom, a developer who builds with purpose.</strong><br/>
+  <em>코드 위에 감성을 더하고, 사용자에게 닿는 경험을 만듭니다.<br/>기능을 넘어, 사람의 삶을 바꾸는 웹을 상상합니다.</em></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=120&section=footer"/>
 </div>
 
 ---
