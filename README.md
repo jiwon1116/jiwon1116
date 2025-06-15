@@ -7,15 +7,11 @@
 </div>
 
 
-
-<p align="center"><strong>👩‍💻 풀스택 개발자 염지원입니다!</strong><br/>
-<em>감각과 디테일을 바탕으로, 사용자에게 닿는 코드를 만듭니다.<br/>
-디자인과 로직을 연결하고, 작은 불편에서 출발해 실용적인 솔루션을 구현합니다.</em></p>
-
-
-
-> 🎯 "Building meaningful products by bridging logic, empathy, and creativity."
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:111111&height=100&section=header&text=Welcome!&fontColor=ffffff&fontSize=40&animation=fadeIn" />
+  <h3>👩‍💻 염지원 | Full Stack Developer</h3>
+  <p><em>사용자 중심의 사고, 감각 있는 UI, 그리고 안정적인 백엔드까지,<br/>작은 불편을 해결하는 데서 진짜 혁신이 시작된다고 믿습니다.</em></p>
+</div>
 ---
 
 <h2 align="center">🛠️ Tech Stack</h2>
