@@ -3,8 +3,9 @@
 ![jieonprofile!!!](https://github.com/user-attachments/assets/614ca2aa-66bc-4f8d-8946-d0594742542c)
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Hi+!+I'm+Jiwon+Yeom!;I'm+a+Full+Stack+Developer." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=700&size=25&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Hi+!+I'm+Jiwon+Yeom!;I'm+a+Full+Stack+Developer." alt="Typing SVG" />
 </div>
+
 
 
 <p align="center"><strong>👩‍💻 풀스택 개발자 염지원입니다!</strong><br/>
