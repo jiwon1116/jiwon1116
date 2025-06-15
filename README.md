@@ -7,10 +7,10 @@
 </div>
 
 
-  <p><strong>🧑‍🚀 Hello! I'm Jiwon Yeom, a developer who builds with purpose.</strong><br/>
-  <em>코드 위에 감성을 더하고, 사용자에게 닿는 경험을 만듭니다.<br/>기능을 넘어, 사람의 삶을 바꾸는 웹을 상상합니다.</em></p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=120&section=footer"/>
-</div>
+> 🧑‍💻 신입 Full Stack Developer 염지원입니다!
+> 프론트엔드부터 백엔드까지 폭넓게 학습하고 있으며, 다양한 프로젝트 경험을 통해 실무 감각을 키우고 있습니다.
+> 
+> `사용자 중심의 개발`과 `문제 해결`을 즐기는 개발자를 지향하며, 지속적으로 성장하고 있는 개발자입니다. 💻✨
 
 ---
 
