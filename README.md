@@ -100,6 +100,7 @@
 
 ### 🛍️ 비건 브랜드 큐레이션 웹앱
 
+
 <h2 align="center">🧩 Projects</h2>
 
 <p align="center">
@@ -114,8 +115,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jiwon1116&repo=budget-travel-planner" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jiwon1116&repo=your-next-project" />
 </p>
----
 
 <h2 align="center">📜 Certifications</h2>
 
