@@ -33,7 +33,7 @@
   </tr>
   <tr>
     <td>📘 Education</td>
-    <td>2023.07 ~ 2024</td>
+    <td>2023.07 ~ 2024.02</td>
     <td>영어 커뮤니케이션 능력 향상 (Studied in London)</td>
     <td>St Giles International</td>
   </tr>
