@@ -100,40 +100,15 @@
 
 ### 🛍️ 비건 브랜드 큐레이션 웹앱
 
-**1. 서비스 선정 배경**  
-최근 비건 문화가 확산되고 있지만, 정보 부족과 비교의 어려움으로 접근성이 낮습니다. 특히 비건 인증 제품에 대한 신뢰성과 사용자 맞춤형 정보 제공에 대한 니즈가 존재합니다.
-
-**2. 서비스 소개**  
-비건 인증 제품을 필터링하고, 가격·용도·스타일 기반 비교 및 리뷰 기능을 제공하는 브랜드 큐레이션 플랫폼입니다.
-
-**3. 서비스 특징**  
-- ✅ 제품별 가격/용도/스타일 기반 비교 기능
-- ✅ 다층 리뷰: 사진 + 체크리스트 기반 평가
-- ✅ 월 구독 / 단품 구매 지원
-- ✅ 기부 연동 및 로컬 브랜드 집중 큐레이션
-
-**4. 서비스 구현 계획**  
-- 비건 인증 의류 브랜드 DB 구축 (국내외 + 인증 종류 포함)
-- 소재 기반 필터링 (예: 업사이클링, 동물성 무소재 등)
-- 스타일별 큐레이션: 출근복, 운동복 등 TPO별 구분
-- 사용자 참여 리뷰 및 챙겨본 기능 개발
-
-**5. 서비스 기대효과**  
-- 신뢰 기반 소비문화 정착
-- 사용자 주도형 로컬 비건 브랜드 확산
-- 지속가능 소비 + 나눔이 결합된 플랫폼 활성화
-
-
-| 프로젝트명 | 설명 | 기술 스택 | Explore more of my work: [Visit My Portfolio 🌟](http://vithamin.dothome.co.kr)  
-📝 Dive into my dev thoughts: [Check Out My Velog 🚀](https://velog.io/@joonie/posts)
+| 프로젝트명 | 설명 | 기술 스택 |
+|------------|------|------------|
+| 🛡️ **Anti-Scam Platform** | 보험 및 물건 사기 방지 시스템 개발, 변호사 상담 연결 기능 | Java, Spring, MySQL, JS, Bootstrap |
+| 🌐 **K-Culture Travel Site** | 외국인을 위한 한국 관광·뷰티 콘텐츠 제공 | HTML, CSS, jQuery, Bootstrap |
+| 🐾 **Animal Shelter Service** | 기부 및 유기동물 정보 공유 플랫폼 | Spring MVC, JSP, MySQL |
+| 🎬 **MBTI 콘텐츠 추천 플랫폼** | 심리 테스트 기반으로 영화/드라마 유형화 및 추천 | React, JavaScript, CSS |
+| ✈️ **예산 기반 여행 설계 웹앱** | 사용자의 예산만으로 항공, 숙소, 식당 등 일정 자동 구성 | React, Python, Java, MySQL |
 
 ---
-
-<h2 align="center">🏆 Certification Trophies</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jiwon1116&theme=flat&column=7&no-bg=true&no-frame=true" />
-</p>
 
 <h2 align="center">📜 Certifications</h2>
 
@@ -141,38 +116,38 @@
   <tr>
     <td align="center">
       <img src="https://img.icons8.com/ios-filled/50/knowledge-sharing.png" width="40" /><br/>
-      <sub><b>정보처리기사</b><br/><i>필기 합격</i></sub><br/>
-      <img src="https://github-profile-trophy.vercel.app/?username=jiwon1116&title=Commits" width="90"/>
+      <sub><b>정보처리기사</b><br/><i>실기 합격</i></sub><br/>
+      <img src="https://github-profile-trophy.vercel.app/?username=jiwon1116&title=Hyper%20Committer&theme=flat&no-bg=true&no-frame=true" width="90"/>
     </td>
     <td align="center">
       <img src="https://img.icons8.com/office/40/china.png" width="40" /><br/>
       <sub><b>HSK</b><br/><i>4급</i></sub><br/>
-      <img src="https://github-profile-trophy.vercel.app/?username=jiwon1116&title=Followers" width="90"/>
+      <img src="https://github-profile-trophy.vercel.app/?username=jiwon1116&title=Many%20Friends&theme=flat&no-bg=true&no-frame=true" width="90"/>
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" /><br/>
-      <sub><b>포토샵</b><br/><i>자격증</i></sub><br/>
-      <img src="https://github-profile-trophy.vercel.app/?username=jiwon1116&title=Repositories" width="90"/>
+      <sub><b>포토샵</b><br/><i>1급</i></sub><br/>
+      <img src="https://github-profile-trophy.vercel.app/?username=jiwon1116&title=First%20Repository&theme=flat&no-bg=true&no-frame=true" width="90"/>
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="40" /><br/>
-      <sub><b>일러스트</b><br/><i>자격증</i></sub><br/>
-      <img src="https://github-profile-trophy.vercel.app/?username=jiwon1116&title=PullRequest" width="90"/>
+      <sub><b>일러스트</b><br/><i>1급</i></sub><br/>
+      <img src="https://github-profile-trophy.vercel.app/?username=jiwon1116&title=First%20Pull&theme=flat&no-bg=true&no-frame=true" width="90"/>
     </td>
     <td align="center">
       <img src="https://img.icons8.com/fluency/48/language-skill.png" width="40" /><br/>
       <sub><b>한국사능력</b><br/><i>2급</i></sub><br/>
-      <img src="https://github-profile-trophy.vercel.app/?username=jiwon1116&title=Stars" width="90"/>
+      <img src="https://github-profile-trophy.vercel.app/?username=jiwon1116&title=Middle%20Star&theme=flat&no-bg=true&no-frame=true" width="90"/>
     </td>
     <td align="center">
       <img src="https://img.icons8.com/color/48/ms-excel.png" width="40" /><br/>
       <sub><b>컴활</b><br/><i>2급</i></sub><br/>
-      <img src="https://github-profile-trophy.vercel.app/?username=jiwon1116&title=Issues" width="90"/>
+      <img src="https://github-profile-trophy.vercel.app/?username=jiwon1116&title=Unknown&theme=flat&no-bg=true&no-frame=true" width="90"/>
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" /><br/>
       <sub><b>COS Pro</b><br/><i>Java 2급</i></sub><br/>
-      <img src="https://github-profile-trophy.vercel.app/?username=jiwon1116&title=MultiLanguage" width="90"/>
+      <img src="https://github-profile-trophy.vercel.app/?username=jiwon1116&title=First%20Repository&theme=flat&no-bg=true&no-frame=true" width="90"/>
     </td>
   </tr>
 </table>
@@ -184,7 +159,6 @@
 - 💼 LinkedIn : [your-linkedin](https://linkedin.com/in/yourprofile)
 - 📝 Notion Resume : [링크 넣기](#)
 - ✉️ Email : your_email@example.com
-
 
 
 
