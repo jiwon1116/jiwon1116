@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=700&size=25&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Hi+!+I'm+Jiwon+Yeom;Let's+build+something+amazing+together!" alt="Typing SVG" />
 </div>
 
->  👩‍💼신입 Full Stack Developer 염지원입니다!
+>  👩‍💼 신입 **Full Stack Developer 염지원**입니다!
   프론트엔드부터 백엔드까지 폭넓게 학습하고 있으며, 다양한 프로젝트 경험을 통해 실무 감각을 키우고 있습니다.
 
 >  💻 `사용자 중심의 개발`과 `문제 해결`을 즐기는 개발자를 지향하며, 지속적으로 성장하고 있는 개발자입니다. 
