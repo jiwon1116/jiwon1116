@@ -64,6 +64,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=jiwon1116&show_icons=true&theme=radical" width="500"/>
 </p>
 
+![jiwon's github stats](https://github-readme-stats.vercel.app/api?username=jiwon1116&show_icons=true)
+[![jiwon's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jiwon1116&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/본인ID)
+
 ---
 
 
