@@ -14,6 +14,37 @@
 
 ---
 
+<h2 align="center">💜 Career</h2>
+
+<table align="center">
+  <tr>
+    <th>Type</th>
+    <th>Date</th>
+    <th>Contents</th>
+    <th>Organization</th>
+  </tr>
+  <tr>
+    <td>📝 Employment</td>
+    <td>2022.06 ~ 2023.05</td>
+    <td>고문서를 콘텐츠화하여 카드뉴스·숏폼·일러스트로 제작</td>
+    <td>한국국학진흥원</td>
+  </tr>
+  <tr>
+    <td>📘 Education</td>
+    <td>2023.07 ~ 2024</td>
+    <td>영어 학습</td>
+    <td>St Giles International</td>
+  </tr>
+  <tr>
+    <td>📝 Employment</td>
+    <td>2024.09.19 ~ 2025.02.28</td>
+    <td>삼성 VI팀 광고 검수 업무</td>
+    <td>퍼플리시스그룹</td>
+  </tr>
+</table>
+
+---
+
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <h3 align="center">💡 Languages & Fundamentals</h3>
