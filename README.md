@@ -128,27 +128,27 @@
   <tr>
     <td align="center">
       <img src="https://img.icons8.com/ios-filled/50/knowledge-sharing.png" width="40" /><br/>
-      <sub><b>정보처리기사</b><br/><br/><p>실기 합격</p></sub><br/>
+      <sub><b>정보처리기사</b><br/><br/><p>실기 합격</p></sub>
       <img src="https://github-profile-trophy.vercel.app/?username=jiwon1116&title=Hyper%20Committer&theme=flat&no-bg=true&no-frame=true" width="90"/>
     </td>
     <td align="center">
       <img src="https://img.icons8.com/office/40/china.png" width="40" /><br/>
-      <sub><b>HSK</b><br/><br/><p>4급</p></sub><br/>
+      <sub><b>HSK</b><br/><br/><p>4급</p></sub>
       <img src="https://github-profile-trophy.vercel.app/?username=jiwon1116&title=Many%20Friends&theme=flat&no-bg=true&no-frame=true" width="90"/>
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" /><br/>
-      <sub><b>포토샵</b><br/><br/><p>1급</p></sub><br/>
+      <sub><b>포토샵</b><br/><br/><p>1급</p></sub>
       <img src="https://github-profile-trophy.vercel.app/?username=jiwon1116&title=First%20Repository&theme=flat&no-bg=true&no-frame=true" width="90"/>
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="40" /><br/>
-      <sub><b>일러스트</b><br/><br/><p>1급</p></sub><br/>
+      <sub><b>일러스트</b><br/><br/><p>1급</p></sub>
       <img src="https://github-profile-trophy.vercel.app/?username=jiwon1116&title=First%20Pull&theme=flat&no-bg=true&no-frame=true" width="90"/>
     </td>
     <td align="center">
       <img src="https://img.icons8.com/fluency/48/language-skill.png" width="40" /><br/>
-      <sub><b>한국사능력</b><br/><br/><p>2급</p></sub><br/>
+      <sub><b>한국사능력</b><br/><br/><p>2급</p></sub>
       <img src="https://github-profile-trophy.vercel.app/?username=jiwon1116&title=Middle%20Star&theme=flat&no-bg=true&no-frame=true" width="90"/>
     </td>
     <td align="center">
@@ -158,7 +158,7 @@
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" /><br/>
-      <sub><b>COS Pro</b><br/><br/><p>Java 2급</p></sub><br/>
+      <sub><b>COS Pro</b><br/><br/><p>Java 2급</p></sub>
       <img src="https://github-profile-trophy.vercel.app/?username=jiwon1116&title=First%20Repository&theme=flat&no-bg=true&no-frame=true" width="90"/>
     </td>
   </tr>
