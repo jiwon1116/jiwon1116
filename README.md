@@ -131,6 +131,11 @@
       <sub><b>정보처리기사</b><br/><br/><p>실기 합격</p></sub><br/>
       <img src="https://github-profile-trophy.vercel.app/?username=jiwon1116&title=Hyper%20Committer&theme=flat&no-bg=true&no-frame=true" width="90"/>
     </td>
+     <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" /><br/>
+      <sub><b>COS Pro</b><br/><br/><p>Java 2급</p></sub><br/>
+      <img src="https://github-profile-trophy.vercel.app/?username=jiwon1116&title=First%20Repository&theme=flat&no-bg=true&no-frame=true" width="90"/>
+    </td>
     <td align="center">
       <img src="https://img.icons8.com/office/40/china.png" width="40" /><br/>
       <sub><b>HSK</b><br/><br/><p>4급</p></sub><br/>
@@ -156,11 +161,7 @@
       <sub><b>컴활</b><br/><br/><p>2급</p></sub><br/>
       <img src="https://github-profile-trophy.vercel.app/?username=jiwon1116&title=Unknown&theme=flat&no-bg=true&no-frame=true" width="90"/>
     </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" /><br/>
-      <sub><b>COS Pro</b><br/><br/><p>Java 2급</p></sub><br/>
-      <img src="https://github-profile-trophy.vercel.app/?username=jiwon1116&title=First%20Repository&theme=flat&no-bg=true&no-frame=true" width="90"/>
-    </td>
+   
   </tr>
 </table>
 
