@@ -93,13 +93,13 @@
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=jiwon1116&repo=anti-scam-platform" />
       <br/>
-      <strong>🧠 Anti-Scam Platform</strong><br/>
-      🧷 CSS<br/>
+      <strong>👴 Senior-Digital-Experience</strong><br/>
+       ⚛️ React<br/>
     </td>
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=jiwon1116&repo=k-culture-travel-site" />
       <br/>
-      <strong>🚀 K-Culture Travel Site</strong><br/>
+      <strong>🚀 Senior-Digital-Experience</strong><br/>
       ☕ Java<br/>
     </td>
   </tr>
@@ -107,13 +107,13 @@
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=jiwon1116&repo=anti-scam-platform" />
       <br/>
-      <strong>💡 Anti-Scam Platform</strong><br/>
+      <strong>💡 Senior-Digital-Experience</strong><br/>
       ⚛️ React<br/>
     </td>
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=jiwon1116&repo=k-culture-travel-site" />
       <br/>
-      <strong>🔧 K-Culture Travel Site</strong><br/>
+      <strong>🔧 Senior-Digital-Experience</strong><br/>
       🐱 GitHub<br/>
     </td>
   </tr>
