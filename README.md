@@ -43,6 +43,12 @@
     <td>삼성 광고 검수 업무 </td>
     <td>퍼플리시스그룹</td>
   </tr>
+    <tr>
+    <td>📘 Education</td>
+    <td>2025.04 ~ 2024.10</td>
+    <td>IT 계열</td>
+    <td>한국정보교육원</td>
+  </tr>
 </table>
 
 ---
