@@ -162,23 +162,6 @@
 
 ---
 
-<h2 align="center">📈 GitHub Stats & Activity</h2>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jiwon1116&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jiwon1116&theme=default" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jiwon1116&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jiwon1116&theme=default" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jiwon1116&theme=default&utcOffset=9" />
-</p>
-
----
 
 <h3 align="center">🐍 Contribution Snake</h3>
 
