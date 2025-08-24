@@ -97,19 +97,24 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=park-jin-seong&repo=Senior-Digital-Experience" />
+      <a href="https://github.com/park-jin-seong/Senior-Digital-Experience">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=park-jin-seong&repo=Senior-Digital-Experience" />
+      </a>
       <br/>
       <strong>👴 Senior-Digital-Experience</strong><br/>
       ⚛️ React<br/>
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=jiwon1116&repo=I-ON" />
+      <a href="https://github.com/jiwon1116/I-ON">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jiwon1116&repo=I-ON" />
+      </a>
       <br/>
       <strong>🚀 I:ON</strong><br/>
       ☕ Spring<br/>
     </td>
   </tr>
 </table>
+
 
 
 ---
