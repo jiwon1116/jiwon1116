@@ -109,21 +109,8 @@
       ☕ Spring<br/>
     </td>
   </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=jiwon1116&repo=anti-scam-platform" />
-      <br/>
-      <strong>💡 Senior-Digital-Experience</strong><br/>
-      ⚛️ React<br/>
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=jiwon1116&repo=k-culture-travel-site" />
-      <br/>
-      <strong>🔧 Senior-Digital-Experience</strong><br/>
-      🐱 GitHub<br/>
-    </td>
-  </tr>
 </table>
+
 
 ---
 
