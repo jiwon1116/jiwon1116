@@ -97,16 +97,16 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=jiwon1116&repo=anti-scam-platform" />
+      <img src="[https://github.com/park-jin-seong/Senior-Digital-Experience](https://github.com/park-jin-seong/Senior-Digital-Experience)" />
       <br/>
       <strong>👴 Senior-Digital-Experience</strong><br/>
        ⚛️ React<br/>
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=jiwon1116&repo=k-culture-travel-site" />
+      <img src="[https://github-readme-stats.vercel.app/api/pin/?username=jiwon1116&repo=k-culture-travel-site](https://github.com/jiwon1116/I-ON)" />
       <br/>
-      <strong>🚀 Senior-Digital-Experience</strong><br/>
-      ☕ Java<br/>
+      <strong>🚀 I:ON</strong><br/>
+      ☕ Spring<br/>
     </td>
   </tr>
   <tr>
@@ -135,6 +135,11 @@
     <td align="center">
       <img src="https://img.icons8.com/ios-filled/50/knowledge-sharing.png" width="40" /><br/>
       <sub><b>정보처리기사</b><br/><br/><p>실기 합격</p></sub><br/>
+      <img src="https://github-profile-trophy.vercel.app/?username=jiwon1116&title=Hyper%20Committer&theme=flat&no-bg=true&no-frame=true" width="90"/>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/ios-filled/50/knowledge-sharing.png" width="40" /><br/>
+      <sub><b>COSPRO JAVA</b><br/><br/><p>2급</p></sub><br/>
       <img src="https://github-profile-trophy.vercel.app/?username=jiwon1116&title=Hyper%20Committer&theme=flat&no-bg=true&no-frame=true" width="90"/>
     </td>
      <td align="center">
