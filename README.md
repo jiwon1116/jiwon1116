@@ -92,49 +92,17 @@
 ---
 
 
-<h2 align="center">🧩 Projects</h2>
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/park-jin-seong/Senior-Digital-Experience">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=park-jin-seong&repo=Senior-Digital-Experience" />
-      </a>
-      <br/>
-      <strong>👴 Senior-Digital-Experience</strong><br/>
-      ⚛️ React<br/>
-    </td>
-    <td align="center">
-      <a href="https://github.com/jiwon1116/I-ON">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jiwon1116&repo=I-ON" />
-      </a>
-      <br/>
-      <strong>🚀 I:ON</strong><br/>
-      ☕ Spring<br/>
-    </td>
-  </tr>
-</table>
-
-
-
----
-
-
 <h2 align="center">📜 Certifications</h2>
 
 <table align="center">
   <tr>
     <td align="center">
       <img src="https://img.icons8.com/ios-filled/50/knowledge-sharing.png" width="40" /><br/>
-      <sub><b>정보처리기사</b><br/><br/><p>실기 합격</p></sub><br/>
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/ios-filled/50/knowledge-sharing.png" width="40" /><br/>
-      <sub><b>COSPRO JAVA</b><br/><br/><p>2급</p></sub><br/>
+      <sub><b>정보처리기사</b><br/><br/><p>필기 합격</p></sub><br/>
     </td>
      <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" /><br/>
-      <sub><b>COS Pro</b><br/><br/><p>Java 2급</p></sub><br/>
+      <sub><b>COS PRO JAVA</b><br/><br/><p>2급</p></sub><br/>
     </td>
     <td align="center">
       <img src="https://img.icons8.com/office/40/china.png" width="40" /><br/>
